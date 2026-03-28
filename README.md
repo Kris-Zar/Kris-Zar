@@ -19,9 +19,9 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🧠 `whoami`
+
+## 🧠 `Who Am I`
 
 ```python
 class ParthSaxena:
@@ -86,8 +86,8 @@ class ParthSaxena:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-saxena1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-instagram-here](https://www.instagram.com/zar.kris?igsh=MTg1NzFoZzJpM2sycQ==))
 
 </div>
 
@@ -97,7 +97,7 @@ class ParthSaxena:
 
 ```
 [ SYSTEM STATUS: Building intelligent worlds, one algorithm at a time... ]
-████████████████████░░░░  82% complete — Stay tuned 🚀
+         82% complete — Stay tuned 🚀
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kris-Zar&color=00D9FF&style=for-the-badge&label=VISITORS)
