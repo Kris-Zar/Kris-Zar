@@ -87,7 +87,7 @@ class ParthSaxena:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-saxena1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-instagram-here](https://www.instagram.com/zar.kris?igsh=MTg1NzFoZzJpM2sycQ==))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zar.kris?igsh=MTg1NzFoZzJpM2sycQ==)
 
 </div>
 
