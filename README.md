@@ -21,17 +21,23 @@
 
 ## `// BOOT SEQUENCE`
 
-```
-> Initializing Parth Saxena...
-> Loading skill modules.............. [████████████████████] 100%
-> AI Core ..................... ONLINE  ✓
-> Game Engine Interface ........ ONLINE  ✓
-> Deep Learning Stack .......... ONLINE  ✓
-> Generative AI Subsystem ...... ONLINE  ✓
-> RL Agent Framework ........... ONLINE  ✓
-> Full Stack Runtime ........... ONLINE  ✓
-> Status: READY TO BUILD ◄
-```
+<div align="center">
+
+[![Init](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=C77DFF&center=true&vCenter=true&width=520&height=30&lines=%3E+Initializing+Parth+Saxena...;%3E+Loading+skill+modules...;%3E+All+systems+nominal)](https://git.io/typing-svg)
+
+![Loading](https://img.shields.io/badge/LOADING_SKILL_MODULES-100%25-FF00FF?style=for-the-badge&labelColor=0D0D1A)
+
+![AI Core](https://img.shields.io/badge/AI_CORE-ONLINE_✓-B44FFF?style=for-the-badge&labelColor=0D0D1A)
+![Game Engine](https://img.shields.io/badge/GAME_ENGINE_INTERFACE-ONLINE_✓-9B59B6?style=for-the-badge&labelColor=0D0D1A)
+![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING_STACK-ONLINE_✓-7B2FBE?style=for-the-badge&labelColor=0D0D1A)
+
+![GenAI](https://img.shields.io/badge/GENERATIVE_AI_SUBSYSTEM-ONLINE_✓-C77DFF?style=for-the-badge&labelColor=0D0D1A)
+![RL Agents](https://img.shields.io/badge/RL_AGENT_FRAMEWORK-ONLINE_✓-FF00FF?style=for-the-badge&labelColor=0D0D1A)
+![Full Stack](https://img.shields.io/badge/FULL_STACK_RUNTIME-ONLINE_✓-6C3483?style=for-the-badge&labelColor=0D0D1A)
+
+![Status](https://img.shields.io/badge/STATUS-READY_TO_BUILD_◄-E040FB?style=for-the-badge&labelColor=0D0D1A)
+
+</div>
 
 <table>
 <tr>
@@ -60,16 +66,32 @@
 
 <div align="center">
 
-### 🤖 AI · ML · Deep Learning
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 AI · ML · Deep Learning
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-C77DFF?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 📊 Data Analysis · Visualization
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
 
 ### 🧠 Generative AI · LLMs · Agents
 
@@ -83,9 +105,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Full Stack · Data · Databases
 
@@ -104,17 +123,16 @@
 
 ---
 
-## 📡 Live Activity
+## 📈 Kris-Zar Activity Graph
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kris-Zar&theme=tokyo-night&bg_color=0D0D1A&color=B44FFF&line=7B2FBE&point=FF00FF&area=true&hide_border=true)](https://github.com/Kris-Zar)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kris-Zar&theme=radical&hide_border=true&background=0D0D1A&ring=B44FFF&fire=FF00FF&currStreakLabel=B44FFF&sideLabels=B44FFF&dates=888888)](https://git.io/streak-stats)
+<!--
+  If this graph doesn't load, the shared host is rate-limited.
+  Deploy your own copy (fork Ashutosh00710/github-readme-activity-graph -> Vercel)
+  and replace "github-readme-activity-graph.vercel.app" below with your own domain.
+-->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kris-Zar&custom_title=Kris-Zar%27s%20Activity%20Trail&bg_color=0D0D1A&color=B44FFF&line=7B2FBE&point=FF00FF&area=true&area_color=7B2FBE&hide_border=true&radius=12&height=300)](https://github.com/Kris-Zar)
 
 </div>
 
