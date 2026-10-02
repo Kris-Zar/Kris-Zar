@@ -110,7 +110,7 @@ class ParthSaxena:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph-ps-4609.vercel.app/graph?username=Kris-Zar&custom_title=Kris-Zar's%20Contribution%20Activity&bg_color=0D0D1A&color=B44FFF&line=7B2FBE&point=FF00FF&area=true&area_color=7B2FBE&hide_border=true&radius=12&height=300)](https://github.com/Kris-Zar)
+[![Activity Graph](https://github-readme-activity-graph-bice-two.vercel.app/graph?username=Kris-Zar&custom_title=Kris-Zar%27s%20Contribution%20Activity&bg_color=0D0D1A&color=B44FFF&line=7B2FBE&point=FF00FF&area=true&area_color=7B2FBE&hide_border=true&radius=12&height=300)](https://github.com/Kris-Zar)
 
 </div>
 
