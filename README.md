@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 ## 🔬 Featured Work
 
@@ -103,7 +102,19 @@ class ParthSaxena:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-Zar&layout=compact&theme=tokyonight&bg_color=0D0D1A&title_color=B44FFF&text_color=C77DFF&border_color=1a1a2e&hide_border=true" alt="Top Languages" height="170" />
 
 </div>
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kris-Zar/Kris-Zar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kris-Zar/Kris-Zar/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Kris-Zar/Kris-Zar/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
 ---
 
 ## 📈 Kris-Zar Activity Graph
