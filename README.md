@@ -24,11 +24,11 @@
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| [**NutriTrack PRO**](https://github.com/Kris-Zar/NutriTrack-PRO) | Full-stack macro tracker with AI food-photo analysis | React, FastAPI, Gemini, MongoDB | [▶ Demo](https://nutritrack-frontend-behf.onrender.com) |
-| [**FraudLens**](https://github.com/Kris-Zar/FraudLens) | Credit card fraud detection with risk scoring & SHAP explanations | Random Forest, scikit-learn, Jupyter | [▶ Demo](https://huggingface.co/spaces/Parth-Saxena/FraudLens) |
 | [**MoodWave**](https://github.com/Kris-Zar/Emotion-Detection-System-) | Multimodal speech + text emotion detection system | TensorFlow/Keras CNN, FastAPI, Librosa | [▶ Demo](https://huggingface.co/spaces/Atharv-Parth/Emotion-Detection-System) |
-| [**Heart Disease Prediction**](https://github.com/Kris-Zar/Heart-Disease-Prediction) | 10-year CHD risk model on Framingham data | Logistic Regression, scikit-learn | — |
+| [**FraudLens**](https://github.com/Kris-Zar/FraudLens) | Credit card fraud detection with risk scoring & SHAP explanations | Random Forest, scikit-learn, Jupyter | [▶ Demo](https://huggingface.co/spaces/Parth-Saxena/FraudLens) |
 | [**TrackDown**](https://github.com/Kris-Zar/TrackDown) | Pomodoro study tracker with streaks & visual progress | Vanilla JS, HTML5 Canvas | [▶ Demo](https://kris-zar.github.io/TrackDown/) |
+| [**Heart Disease Prediction**](https://github.com/Kris-Zar/Heart-Disease-Prediction) | 10-year CHD risk model on Framingham data | Logistic Regression, scikit-learn | — |
+| [**NutriTrack PRO**](https://github.com/Kris-Zar/NutriTrack-PRO) | Full-stack macro tracker with AI food-photo analysis | React, FastAPI, Gemini, MongoDB | [▶ Demo](https://nutritrack-frontend-behf.onrender.com) |
 
 </div>
 
